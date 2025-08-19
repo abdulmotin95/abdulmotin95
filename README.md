@@ -20,7 +20,7 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/mohammad-abdul-motin" target="_blank">
+  <a href="https://www.linkedin.com/in/mohammad-abdul-motin-a3b77a373" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="35" />
   </a>
   <a href="https://fb.com/mohammadabdul.motin.54" target="_blank">
