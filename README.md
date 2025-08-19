@@ -32,7 +32,7 @@
   <a href="https://github.com/abdulmotin95" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/github.svg" alt="GitHub" height="35" width="35" />
   </a>
-  <a href="https://wa.me/8801768767681" target="_blank">
+  <a href="https://wa.me/qr/QWKJ3US6OFNMO1" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="35" width="35" />
   </a>
 </p>
