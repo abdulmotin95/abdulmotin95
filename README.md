@@ -1,5 +1,9 @@
+<!-- MasterHead Banner -->
 <p align="center">
-  <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="MasterHead" width="100%">
+  <img src="https://skillbotacademy.com/assets/images/blog/flutter%20inside.jpeg" 
+       alt="MasterHead" 
+       width="100%" 
+       style="max-width: 100%; height: 300px; object-fit: cover; border-radius: 12px;">
 </p>
 
 <h1 align="center">Hi 👋, I'm <span style="color:#007acc">Md Abdul Motin</span></h1>
@@ -39,7 +43,6 @@
 ---
 
 ## 📊 Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdulmotin95&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmotin95&layout=compact&theme=radical" alt="Top Languages" width="48%">
@@ -58,6 +61,7 @@
 - 📱 Build **Beautiful & Responsive Flutter Apps**  
 - ⚡ Explore **State Management & Animations in Flutter**  
 - 🚀 Publish apps on **Play Store**  
+- 🌟 Create **Custom UI Widgets & Flutter Packages**  
 
 ---
 
